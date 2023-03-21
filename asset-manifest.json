@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/News-Tiger-App/static/css/main.31d6cfe0.css",
+    "main.js": "/News-Tiger-App/static/js/main.9c48f84d.js",
+    "index.html": "/News-Tiger-App/index.html",
+    "main.9c48f84d.js.map": "/News-Tiger-App/static/js/main.9c48f84d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.9c48f84d.js"
+  ]
+}
